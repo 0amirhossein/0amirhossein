@@ -103,7 +103,6 @@ More than just writing code, I enjoy building complete systems:
 * Telegram: @amirhossein0f
 
 ---
-
 <p align="center">
-build() • automate() • deploy() • repeat()
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=build()+%E2%80%A2+automate()+%E2%80%A2+deploy()+%E2%80%A2+repeat()" />
 </p>
